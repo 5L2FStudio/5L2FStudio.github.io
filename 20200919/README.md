@@ -41,7 +41,9 @@
 * 回復
 * 循環剪貼環 <kbd>Ctrl+Shift+V</kbd>
 * 拖拉物件總管
+* 移動欄位
 * 行模式 <kbd>ALT+滑鼠右鍵</kbd>
+* 隨標頭一同複製
 * Expansion Snippet Type <kbd>CTRL+K</kbd><kbd>CTRL+X</kbd>
 * Surround With Snippet Type <kbd>CTRL+K</kbd><kbd>CTRL+S</kbd>
 
