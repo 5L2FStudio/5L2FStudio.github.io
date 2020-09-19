@@ -50,7 +50,7 @@
 * Surround With Snippet Type <kbd>CTRL+K</kbd><kbd>CTRL+S</kbd>
 
 
-## 系統管理工具 報表
+## 內建標準報表
 * Instance 
 * Database 
 * 安全性 → 登入 
