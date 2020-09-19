@@ -69,3 +69,8 @@
 * BACPAC / DACPAC
   * 透過 DACPAC 來達到地端和雲端資料庫的版本控管 (https://dotblogs.com.tw/jamesfu/2015/08/18/dacpac)
   * Checksum (https://github.com/gertd/dac) 
+
+## 壓縮
+* 資料庫 / 檔案 Shrink
+* 資料表壓縮 Compression
+* 備份壓縮
