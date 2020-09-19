@@ -22,6 +22,7 @@
 * 物件總管 <kbd>F8</kbd>
 * 物件總管詳細資料 <kbd>F7</kbd>
 * 已註冊的伺服器 <kbd>Ctrl+Alt+G</kbd>
+  * 讀取 Log 紀錄 (https://dotblogs.com.tw/jamesfu/2014/07/28/readerrorlog)
 * 範本瀏覽器 <kbd>Ctrl+Alt+T</kbd>
 
 
@@ -37,7 +38,7 @@
 ## SQL Query
 * 顏色 : 綠色 → Save , 黃色 → unSave , 紅色 → Error
 * IntelliSence : <kbd>Ctrl+Shift+R</kbd>
-* sp_who <kbd>CTRL+1</kbd> sp_lock <kbd>CTRL+2</kbd>
+* sp_who <kbd>CTRL+1</kbd> 與 sp_lock <kbd>CTRL+2</kbd> 快速鍵使用
 * 放大縮小
 * 分割視窗
 * 回復
@@ -46,8 +47,8 @@
 * 移動欄位
 * 行模式 <kbd>ALT+滑鼠右鍵</kbd>
 * 隨標頭一同複製
-* Expansion Snippet Type <kbd>CTRL+K</kbd><kbd>CTRL+X</kbd>
-* Surround With Snippet Type <kbd>CTRL+K</kbd><kbd>CTRL+S</kbd>
+* Expansion Snippet Type <kbd>CTRL+K</kbd> <kbd>CTRL+X</kbd>
+* Surround With Snippet Type <kbd>CTRL+K</kbd> <kbd>CTRL+S</kbd>
 
 
 ## 內建標準報表
