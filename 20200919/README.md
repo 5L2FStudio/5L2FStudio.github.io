@@ -17,10 +17,10 @@
 
 
 ## 檢視
-* 物件總管 \[F8\]
-* 物件總管詳細資料 \[F7\]
-* 已註冊的伺服器 \[Ctrl+Alt+G\]
-* 範本瀏覽器 \[Ctrl+Alt+T\]
+* 物件總管 <kbd>F8</kbd>
+* 物件總管詳細資料 <kbd>F7<kbd>
+* 已註冊的伺服器 <kbd>Ctrl+Alt+G</kbd>
+* 範本瀏覽器 <kbd>Ctrl+Alt+T</kbd>
 
 ## 選項
 * \[環境\]→\[一般\] 色彩佈景主題 
@@ -32,14 +32,25 @@
 
 ## SQL Query
 * 顏色 : 綠色 → Save , 黃色 → unSave , 紅色 → Error
-* IntelliSence : \[Ctrl+Shift+R\]
+* IntelliSence : <kbd>Ctrl+Shift+R</kbd>
 * 放大縮小
 * 分割視窗
 * 回復
-* 循環剪貼環 \[Ctrl+Shift+V\]
+* 循環剪貼環 <kbd>Ctrl+Shift+V</kbd>
+* 拖拉物件總管
+* 行模式 <kbd>ALT+滑鼠右鍵</kbd>
+* Expansion Snippet Type <kbd>CTRL+K</kbd><kbd>CTRL+X</kbd>
+* Surround With Snippet Type <kbd>CTRL+K</kbd><kbd>CTRL+S</kbd>
 
 
+## 系統管理工具 報表
+* Instance 
+* Database 
+* 安全性 → 登入 
+* 資料收集 
 
-
-
-
+## 執行計畫
+* 實際執行計畫
+* 預估執行計畫
+* 另存執行計畫
+* 比較執行計畫
