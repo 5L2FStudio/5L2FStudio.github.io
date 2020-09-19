@@ -67,3 +67,5 @@
 * BACKUP / RESTORE
 * 匯出指令碼 \(大型資料庫要注意逾時\)
 * BACPAC / DACPAC
+  * 透過 DACPAC 來達到地端和雲端資料庫的版本控管 (https://dotblogs.com.tw/jamesfu/2015/08/18/dacpac)
+  * Checksum (https://github.com/gertd/dac) 
