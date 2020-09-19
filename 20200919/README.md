@@ -5,11 +5,11 @@
 *
 
 
-## SSMS 下載 ( Free )
+## SSMS 下載 \( Free \)
 * Google "SSMS Download"
 * 注意版本
-* Only for Windows ( 其他作業系統可使用 Azure Data Studio )
-* Update ( zh-tw →  en-us )
+* Only for Windows \( 其他作業系統可使用 Azure Data Studio \)
+* Update \( zh-tw →  en-us \)
 
 ## 連線至伺服器
 * 利用 **[Del]** 鍵刪除歷史清單
@@ -17,8 +17,29 @@
 
 
 ## 檢視
-* 物件總管 [F8]
-* 物件總管詳細資料 [F7]
-* 已註冊的伺服器 [Ctrl+Alt+G]
-* 範本瀏覽器 [Ctrl+Alt+T]
+* 物件總管 \[F8\]
+* 物件總管詳細資料 \[F7\]
+* 已註冊的伺服器 \[Ctrl+Alt+G\]
+* 範本瀏覽器 \[Ctrl+Alt+T\]
+
+## 選項
+* \[環境\]→\[一般\] 色彩佈景主題 
+* \[環境\]→\[字型與色彩\] 字型 Consolas → 美觀、等寬、可容易區分 0 \(zero\) 和 O \(OK\) 與 8 \(eight\) 和 B\(Bill\)
+* \[文字編輯器\]→\[Transact-SQL\]→\[一般\] 行號
+* \[文字編輯器\]→\[Transact-SQL\]→\[卷軸\] 垂直卷軸使用地圖模式
+* \[設計師\] 警告受影響資料表
+* \[SQL Server 物件總管\]→\[命令\] 
+
+## SQL Query
+* 顏色 : 綠色 → Save , 黃色 → unSave , 紅色 → Error
+* IntelliSence : \[Ctrl+Shift+R\]
+* 放大縮小
+* 分割視窗
+* 回復
+* 循環剪貼環 \[Ctrl+Shift+V\]
+
+
+
+
+
 
