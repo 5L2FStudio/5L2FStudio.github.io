@@ -2,9 +2,7 @@
 
 ## 參考資料
 * [10 SSMS Tips and Tricks to boost your Productivity](https://www.sqlshack.com/10-ssms-tips-and-tricks-to-boost-your-productivity/)
-*
-
----
+* [25 SSMS Tips and Tricks to boost your Productivit](https://www.sqlsaturday.com/SessionDownload.aspx?suid=16388)
 
 ## SSMS 下載 \( Free \)
 * Google "SSMS Download"
@@ -12,13 +10,11 @@
 * Only for Windows \( 其他作業系統可使用 Azure Data Studio \)
 * Update \( zh-tw →  en-us \)
 
----
 
 ## 連線至伺服器
 * 利用 **[Del]** 鍵刪除歷史清單
 * 連接 Azure Storage 可**查看**Blob Container
 
----
 
 ## 檢視
 * 物件總管 <kbd>F8</kbd>
@@ -26,7 +22,6 @@
 * 已註冊的伺服器 <kbd>Ctrl+Alt+G</kbd>
 * 範本瀏覽器 <kbd>Ctrl+Alt+T</kbd>
 
----
 
 ## 選項
 * \[環境\]→\[一般\] 色彩佈景主題 
@@ -36,7 +31,6 @@
 * \[設計師\] 警告受影響資料表
 * \[SQL Server 物件總管\]→\[命令\] 
 
----
 
 ## SQL Query
 * 顏色 : 綠色 → Save , 黃色 → unSave , 紅色 → Error
@@ -51,7 +45,6 @@
 * Expansion Snippet Type <kbd>CTRL+K</kbd><kbd>CTRL+X</kbd>
 * Surround With Snippet Type <kbd>CTRL+K</kbd><kbd>CTRL+S</kbd>
 
----
 
 ## 系統管理工具 報表
 * Instance 
@@ -59,15 +52,12 @@
 * 安全性 → 登入 
 * 資料收集 
 
----
-
 ## 執行計畫
 * 實際執行計畫 <kbd>CTRL+M</kbd>
 * 預估執行計畫 <kbd>CTRL+L</kbd>
 * 另存執行計畫
 * 比較執行計畫
 
----
 
 ## 資料庫移轉
 * BACKUP / RESTORE
