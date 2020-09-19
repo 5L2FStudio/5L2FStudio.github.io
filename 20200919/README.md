@@ -1,6 +1,7 @@
 # SSMS 使用
 
 ## 參考資料
+* [SQL Server Management Studio Tips and Tricks](https://blog.greglow.com/2018/04/24/free-ebook-sql-server-management-studio-tips-and-tricks/)
 * [10 SSMS Tips and Tricks to boost your Productivity](https://www.sqlshack.com/10-ssms-tips-and-tricks-to-boost-your-productivity/)
 * [25 SSMS Tips and Tricks to boost your Productivit](https://www.sqlsaturday.com/SessionDownload.aspx?suid=16388)
 
