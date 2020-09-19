@@ -20,7 +20,7 @@
 
 ## 檢視
 * 物件總管 <kbd>F8</kbd>
-* 物件總管詳細資料 <kbd>F7<kbd>
+* 物件總管詳細資料 <kbd>F7</kbd>
 * 已註冊的伺服器 <kbd>Ctrl+Alt+G</kbd>
 * 範本瀏覽器 <kbd>Ctrl+Alt+T</kbd>
 
