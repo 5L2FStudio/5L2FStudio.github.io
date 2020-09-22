@@ -14,13 +14,17 @@
 
 
 ## 連線至伺服器
-* 利用 **[Del]** 鍵刪除歷史清單
+* 利用 <kbd>del</kbd> 鍵刪除歷史清單
 * 連接 Azure Storage 可**查看**Blob Container
+  * 展示 Backup to Azure
 
 
 ## 檢視
 * 物件總管 <kbd>F8</kbd>
+  * 塞選
 * 物件總管詳細資料 <kbd>F7</kbd>
+  * 加入欄位
+  * 整批產生指令碼
 * 已註冊的伺服器 <kbd>Ctrl+Alt+G</kbd>
   * 讀取 Log 紀錄 (https://dotblogs.com.tw/jamesfu/2014/07/28/readerrorlog)
 * 範本瀏覽器 <kbd>Ctrl+Alt+T</kbd>
@@ -44,7 +48,7 @@
 * 回復
 * 循環剪貼環 <kbd>Ctrl+Shift+V</kbd>
 * 拖拉物件總管
-* 移動欄位
+* 資料欄位可移動欄位順序
 * 行模式 <kbd>ALT+滑鼠右鍵</kbd>
 * 隨標頭一同複製
 * Expansion Snippet Type <kbd>CTRL+K</kbd> <kbd>CTRL+X</kbd>
@@ -55,7 +59,8 @@
 * Instance 
 * Database 
 * 安全性 → 登入 
-* 資料收集 
+* 資料收集
+* SQL Agent 
 
 ## 執行計畫
 * 實際執行計畫 <kbd>CTRL+M</kbd>
@@ -67,6 +72,7 @@
 ## 資料庫移轉
 * BACKUP / RESTORE
 * 匯出指令碼 \(大型資料庫要注意逾時\)
+  * SSDT
 * BACPAC / DACPAC
   * 透過 DACPAC 來達到地端和雲端資料庫的版本控管 (https://dotblogs.com.tw/jamesfu/2015/08/18/dacpac)
   * Checksum (https://github.com/gertd/dac) 
