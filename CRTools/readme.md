@@ -5,8 +5,8 @@
 Version       | Developer Edition | 32Bit | 64Bit
 --------------|:-----------------:| -----:|------------------------
 13.0.28       |	[SP 28](https://origin.softwaredownloads.sap.com/public/file/0020000001263622020)|[32bit](https://origin.softwaredownloads.sap.com/public/file/0020000001263572020)|[64bit](https://origin.softwaredownloads.sap.com/public/file/0020000001263562020)
-13.0.27       |	[SP 27](https://origin.softwaredownloads.sap.com/public/file/0020000000543482020)|	|
-13.0.26       |	[SP 26](https://origin.softwaredownloads.sap.com/public/file/0020000002112552019)|	|
+13.0.27       |	[SP 27](https://origin.softwaredownloads.sap.com/public/file/0020000000543482020)|[32bit](https://origin.softwaredownloads.sap.com/public/file/0020000000543412020)|[64bit](https://origin.softwaredownloads.sap.com/public/file/0020000000543422020)
+13.0.26       |	[SP 26](https://origin.softwaredownloads.sap.com/public/file/0020000002112552019)|[32bit](https://origin.softwaredownloads.sap.com/public/file/0020000002112472019)|[64bit](https://origin.softwaredownloads.sap.com/public/file/0020000002112482019)
 
 # 下載安裝程式
 
