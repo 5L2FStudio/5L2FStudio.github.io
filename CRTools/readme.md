@@ -11,8 +11,7 @@ Version       | Developer Edition | 32Bit | 64Bit
 13.0.26       |	[SP 26](https://origin.softwaredownloads.sap.com/public/file/0020000002112552019)|[32bit](https://origin.softwaredownloads.sap.com/public/file/0020000002112472019)|[64bit](https://origin.softwaredownloads.sap.com/public/file/0020000002112482019)
 
 # 下載安裝程式
-
-## 檔案下載網址 [CR翻譯工具](CR翻譯工具.zip) .
+檔案下載網址 [CR翻譯工具](CRTools.zip) .
 
 
 # 安裝環境
