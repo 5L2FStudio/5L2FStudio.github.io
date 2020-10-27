@@ -66,7 +66,7 @@
 ### RUNTIME 
 ![RUNTIME](103.PNG)
 
-目前 .Net core 2.2 已經到 2.2.8 的版本 , 如果下載的時候有更新的版本 , 那直接用 2.2 更新的即可。這裡我們選擇 ASP.Net core Runtime 2.2.8 Windows 的 Installers 版本 , 裡面的 Hosting Bundle 版本，這裡不要選錯版本。
+目前 .Net core 2.2 已經到 2.2.8 的版本 , 如果下載的時候有更新的版本 , 那直接用 2.2 更新的即可。這裡我們選擇 「ASP.Net core Runtime 2.2.8 Windows」 的 Installers 版本 , 裡面的 *Hosting Bundle* 版本，這裡不要選錯版本。
 
 ### 安裝 .Net core runtime
 ![RUNTIME](200.PNG)
@@ -91,7 +91,7 @@
 ### 模組清單
 ![Modules](302.PNG)
 
-如果前面 .Net core Runtime 已經安裝完成，則這裡應該會看到有 AspNetCoreModuleV2 ，確認無誤即可關閉，否則就要回到前一個大項，進行 .Net core 的安裝。
+如果前面 .Net core Runtime 已經安裝完成，則這裡應該會看到有 AspNetCoreModuleV2 ，確認無誤即可關閉，否則就要回到前一個大項，確認您所下載並安裝的 .Net core ，有沒有正確下載到 Hosting Bundle 的版本來進行 .Net core 的安裝。
 
 ### 關閉預設站台
 ![Stop Default Site](400.PNG)
