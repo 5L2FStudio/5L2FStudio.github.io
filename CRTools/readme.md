@@ -2,7 +2,7 @@
 可連結到 Crysyal Report 官方網站進行下載 [網址](https://www.crystalreports.com/download/)
 
 # 安裝 Crystal Report Runtime
-## 一般來說只要安裝最新版本, 而搭配所安裝的 CR 去使用 32 位元或 64 位元
+一般來說只要安裝最新版本, 而搭配所安裝的 CR 去使用 32 位元或 64 位元
 
 Version       | Developer Edition | 32Bit | 64Bit
 --------------|:-----------------:| -----:|------------------------
