@@ -26,6 +26,7 @@
 ------------------------
 
 # ADF
+![圖片](https://docs.microsoft.com/en-us/azure/data-factory/media/concepts-pipelines-activities/relationship-between-dataset-pipeline-activity.png)
 [參考網址](https://docs.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities)
 
 ------------------------
