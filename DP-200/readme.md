@@ -10,3 +10,17 @@
 
 ![重要](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f4891908-9e54-49c1-b8f8-615e76f2920e.jpg)
 
+------------------------
+
+# Big Data
+
+* Big data architectures 
+[參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/)
+  
+* Batch processing
+[參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/batch-processing)
+
+* Real time processing
+[參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/real-time-processing)
+
+------------------------
