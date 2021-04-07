@@ -1,6 +1,7 @@
 # File Panda 安裝手冊
 
 ## 執行安裝程式
+[download](File_Panda_Install.exe)
 
 ### 歡迎畫面
 ![STEP 1](001.PNG)
