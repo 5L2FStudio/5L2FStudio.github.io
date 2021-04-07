@@ -44,8 +44,8 @@
 ![STEP 5](031.PNG)
 
 ### 可以開啟「Task Schedule」來檢查排程是否有設定成功
-![STEP 6(032.PNG)
+![STEP 6](032.PNG)
 
 ### 「Task Schedule」下可看到設定的作業
-![STEP 7(033.PNG)
+![STEP 7](033.PNG)
 
