@@ -24,3 +24,19 @@
 [參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/real-time-processing)
 
 ------------------------
+
+# ADF
+[參考網址](https://docs.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities)
+
+------------------------
+
+# Power BI
+* Treemaps ![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-treemaps/treemaphoverdetail-new.png)
+[參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-treemaps) 
+
+* Key influencers ![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-influencers/power-bi-ki-numbers-new.png)
+[參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers) 
+
+* Scatter ![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-scatter/power-bi-bubble-chart.png)
+[參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-scatter) 
+* 
