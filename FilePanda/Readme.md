@@ -1,7 +1,7 @@
 # File Panda 安裝手冊
 
 ## 執行安裝程式
-透過此連結下載檔案 [download](FilePanda_Install.exe)
+透過此連結下載檔案 [download](/20210409/FilePanda_Install.exe)
 
 ### 歡迎畫面
 ![STEP 1](001.PNG)
