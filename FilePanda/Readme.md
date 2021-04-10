@@ -1,7 +1,12 @@
 # File Panda 安裝手冊
 
 ## 執行安裝程式
-透過此連結下載檔案 [download](/20210410/FilePanda_Install.exe) 
+透過此連結下載檔案 [download](/20210410/FilePanda_Install.exe) 最後更新時間 : 2021/04/21 22:00 
+
+[修改紀錄](20210410/readme.md) 2021/04/10 修改說明
+
+[修改紀錄](20210409/readme.md) 2021/04/09 修改說明
+
 
 ### 歡迎畫面
 ![STEP 1](001.PNG)
