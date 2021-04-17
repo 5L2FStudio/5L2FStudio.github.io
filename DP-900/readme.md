@@ -15,15 +15,20 @@
 # Big Data
 
 * Big data architectures 
-[參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/)
+[參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/?WT.mc_id=DP-MVP-5000099)
   
 * Batch processing
-[參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/batch-processing)
+[參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/batch-processing?WT.mc_id=DP-MVP-5000099)
 
 * Real time processing
-[參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/real-time-processing)
+[參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/real-time-processing?WT.mc_id=DP-MVP-5000099)
 
 ------------------------
+
+# Dedicated SQL pool 
+
+* Dedicated SQL pool (formerly SQL DW) architecture in Azure Synapse Analytics
+[參考網址](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/massively-parallel-processing-mpp-architecture?WT.mc_id=DP-MVP-5000099)
 
 # ADF
 ![圖片](https://docs.microsoft.com/en-us/azure/data-factory/media/concepts-pipelines-activities/relationship-between-dataset-pipeline-activity.png)
@@ -32,12 +37,16 @@
 ------------------------
 
 # Power BI
+
 * Treemaps ![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-treemaps/treemaphoverdetail-new.png)
-[參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-treemaps) 
+
+[參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-treemaps?WT.mc_id=DP-MVP-5000099) 
 
 * Key influencers ![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-influencers/power-bi-ki-numbers-new.png)
-[參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers) 
+
+[參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers?WT.mc_id=DP-MVP-5000099) 
 
 * Scatter ![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-scatter/power-bi-bubble-chart.png)
-[參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-scatter) 
-* 
+
+[參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-scatter?WT.mc_id=DP-MVP-5000099) 
+
