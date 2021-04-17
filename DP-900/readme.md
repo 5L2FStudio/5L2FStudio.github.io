@@ -15,14 +15,17 @@
 # Big Data
 
 * Big data architectures 
+
 [參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/?WT.mc_id=DP-MVP-5000099)
   
 * Batch processing
+
 [參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/batch-processing?WT.mc_id=DP-MVP-5000099) Batch processing
 
 [參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/analytical-data-stores) Choosing an analytical data store in Azure
 
 * Real time processing
+
 [參考網址](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/real-time-processing?WT.mc_id=DP-MVP-5000099)
 
 ------------------------
