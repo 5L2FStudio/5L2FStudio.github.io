@@ -37,6 +37,16 @@
 
 ------------------------
 
+# Cosmos DB
+* Azure Cosmos DB Fast NoSQL database with SLA-backed speed and availability, automatic and instant scalability, and open-source APIs for MongoDB and Cassandra.
+[參考網址](https://docs.microsoft.com/en-us/azure/cosmos-db/?WT.mc_id=DP-MVP-5000099)
+
+* Partitioning and horizontal scaling in Azure Cosmos DB
+[參考網址](https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview/?WT.mc_id=DP-MVP-5000099)
+
+
+------------------------
+
 # ADF
 ![圖片](https://docs.microsoft.com/en-us/azure/data-factory/media/concepts-pipelines-activities/relationship-between-dataset-pipeline-activity.png)
 [參考網址](https://docs.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities)
@@ -45,15 +55,18 @@
 
 # Power BI
 
-* Treemaps ![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-treemaps/treemaphoverdetail-new.png)
+* Treemaps 
+![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-treemaps/treemaphoverdetail-new.png)
 
 [參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-treemaps?WT.mc_id=DP-MVP-5000099) 
 
-* Key influencers ![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-influencers/power-bi-ki-numbers-new.png)
+* Key influencers 
+![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-influencers/power-bi-ki-numbers-new.png)
 
 [參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers?WT.mc_id=DP-MVP-5000099) 
 
-* Scatter ![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-scatter/power-bi-bubble-chart.png)
+* Scatter 
+![圖片](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-scatter/power-bi-bubble-chart.png)
 
 [參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-scatter?WT.mc_id=DP-MVP-5000099) 
 
