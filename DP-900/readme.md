@@ -44,6 +44,10 @@
 * Partitioning and horizontal scaling in Azure Cosmos DB
 [參考網址](https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview/?WT.mc_id=DP-MVP-5000099)
 
+* Developing with Azure Cosmos DB Table API and Azure Table storage
+[參考網址](https://docs.microsoft.com/en-us/azure/cosmos-db/table-support/?WT.mc_id=DP-MVP-5000099) Developing with Azure Cosmos DB Table API and Azure Table storage
+
+[參考網址](https://docs.microsoft.com/zh-tw/azure/cosmos-db/how-to-multi-master/?WT.mc_id=DP-MVP-5000099) 在您的應用程式中設定使用 Azure Cosmos DB 的多重區域寫入
 
 ------------------------
 
