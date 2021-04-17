@@ -47,6 +47,14 @@
 
 ------------------------
 
+# Azure Application Architecture Guide
+
+* Understand data store models
+[參考網址](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview?WT.mc_id=DP-MVP-5000099)
+
+
+------------------------
+
 # ADF
 ![圖片](https://docs.microsoft.com/en-us/azure/data-factory/media/concepts-pipelines-activities/relationship-between-dataset-pipeline-activity.png)
 [參考網址](https://docs.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities)
