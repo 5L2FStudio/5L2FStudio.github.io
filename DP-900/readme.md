@@ -82,3 +82,19 @@
 
 [參考網址](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-scatter?WT.mc_id=DP-MVP-5000099) 
 
+------------------------
+
+# SQL vs NOSQL
+
+* What is Schema On Write
+
+Schema on write is defined as creating a schema for data before writing into the database. If you have done any kind of development with a database you understand the structured nature of Relational Database(RDBMS) because you have used Structured Query Language (SQL) to read data from the database.
+
+One of the most time consuming task in a RDBMS  is doing Extract Transform Load (ETL) work. Remember just because the data is structured doesn’t mean it starts out that way. Most of the data that exist is in an unstructured fashion. Not only do you have to define the schema for the data but you must also structure it based on that schema.
+
+* What is Schema On Read
+
+Schema on read differs from schema on write because you create the schema only when reading the data. Structured is applied to the data only when it’s read, this allows unstructured data to be stored in the database. Since it’s not necessary to define the schema before storing the data it makes it easier to bring in new data sources on the fly.
+
+The exploding growth of unstructured data and overhead of ETL for storing data in RDBMS is the main reason for shift to schema on read. Many times analyst aren’t sure what types of insights they will gain from new data sources which is why getting new data source is time consuming. Remember back to our schema on write scenario let’s walk through it using schema on read.
+
