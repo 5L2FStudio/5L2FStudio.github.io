@@ -5,6 +5,8 @@ https://ravikirans.com/dp-203-azure-exam-study-guide/
 ## Design and Implement Data Storage (40-45%)
 # Design a data storage structure
 * design an Azure Data Lake solution
+參考資料 https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
+
 * recommend file types for storage
 * recommend file types for analytical queries
 * design for efficient querying
