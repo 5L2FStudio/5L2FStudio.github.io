@@ -9,7 +9,12 @@ https://ravikirans.com/dp-203-azure-exam-study-guide/
   * 參考資料 https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
 
 * recommend file types for storage
+  * Introduction to the core Azure Storage services https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction#example-scenarios
+
 * recommend file types for analytical queries
+  * Query data in Azure Data Lake using Azure Data Explorer https://docs.microsoft.com/en-us/azure/data-explorer/data-lake-query-data
+  * Query Azure Storage analytics logs in Azure Log Analytics https://azure.microsoft.com/en-in/blog/query-azure-storage-analytics-logs-in-azure-log-analytics/
+
 * design for efficient querying
 * design for data pruning
 * design a folder structure that represents the levels of data transformation
