@@ -116,3 +116,60 @@ Crystal Report 雖然是 64 位元，但主要的報表設計器還是 32 位元
 
 ![Design](52.PNG)
 
+---------------------------
+
+# 使用 Visual Studio 設計報表
+
+## 管理延伸模組
+在 Visual Studio 內，可以利用加掛延伸套件的方式，直接整合報表開發介面在 Visual Studio 內，可以選擇菜單列上面的「延伸模組」→「管理延伸模組」
+
+![Extend](80.PNG)
+
+## 加入 Crystal Report 開發版本
+在模組管理內，可以輸入關鍵字 "Crystal Report"，就可以方便找到可以搭配 Visual Studio 來使用的 Crystal Report 的選項，就可以按下載件來進行下載
+
+![Extend](81.PNG)
+
+## 導向到 SAP 網站
+透過上述的步驟，並不能直接下載，會直接導向到 SAP 的網站上，如果您之前已經有註冊過免費的帳號，那麼就可以直接下載。如果尚未註冊過，則需要先去註冊一個帳號，才會出現相關下載的選項。此時我們需要選擇 Crystal Report for Visual Studio 來進行安裝。
+
+![List](82.PNG)
+
+## 解壓縮安裝程式
+跟之前說明 Crystal Report 的安裝相同，因為下載的是一個自解的壓縮程式，因此執行後會先出現一個解壓縮的畫面
+
+![Unzip](83.PNG)
+
+## 選擇語言別
+
+![Language](84.PNG)
+
+## 歡迎畫面
+![Welcome](85.PNG)
+
+## 接受授權合約
+![Authorization](86.PNG)
+
+## 開始安裝
+![Preparation](87.PNG)
+
+## 進行安裝
+![Start](88.PNG)
+
+## 完成
+![Finish](89.PNG)
+
+## 安裝 Runtime
+這個步驟主要是會在 C:\inetpub\wwwroot\aspnet_client\system_web 的目錄下，安裝相關的 ActiveX 和 Java Script 的網頁，如果需要透過網站來看報表的話，則會需要這些檔案。
+
+![runtime](90.PNG)
+
+## 開啟 Visual Studio 載入報表
+當第一次在 Visual Studio 建立或開啟 Crystal Report 報表的時候，會出現警告訊息，這裡選擇確認就可以了。
+
+![firstime](91.PNG)
+
+## 編輯報表
+完成上述步驟，就可以使用 Visual Studio 來編輯 Crystal Report 的樣板檔案了，使用這個方式是可以不用購買 Crystal Report 的 License，雖然可以用這樣的方式來設計報表，但這個不能當成真正的報表主機來用，使用上來說也沒有比真正的 Crystal Report 的設計器來的好用，只能說這個一個很陽春的編輯器，可以用但體驗卻不會很好。
+
+![design](92.PNG)
