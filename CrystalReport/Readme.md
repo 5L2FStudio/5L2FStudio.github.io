@@ -11,6 +11,8 @@ Crystal Report 雖然是 64 位元，但主要的報表設計器還是 32 位元
 ![Folder](02.PNG)
 
 ## 檢查所要安裝環境的相關設定
+如果您的作業系統上沒有預先安裝好 .Net framework 4 的話，則這裡就會檢查失敗，那您就必須先回到作業系統的新增移除程式，將 .Net framework 4 給安裝上去。目前會使用 Crystal Report 2020 的環境，主要是 Windows 10 , Windows Server 2016 , 2019 , 這些作業系統都會預設安裝好 .Net Framework 4 , 所以當您被提是需要安裝 .Net framework 4 的時候，很有可能是您的作業系統版本太舊所導致的，這就需要特別去注意一下了。
+
 ![Check](03.PNG)
 
 ## Welcome
@@ -50,4 +52,21 @@ Crystal Report 雖然是 64 位元，但主要的報表設計器還是 32 位元
 
 ## 完成
 ![Finish](11.PNG)
+
+---------------------------
+# 設計報表
+
+## 啟動 Crystal Report 設計工具
+第一次會出現提示一些說明訊息，此部分按下確認即可
+![Warning](20.PNG)
+
+
+## 進入設計工具
+![Screen](21.PNG)
+
+## 選擇建立報表
+選擇左上角 「File」→「New」→「Standard Report」
+![N](22.PNG)
+
+
 
