@@ -1,5 +1,7 @@
 # Crystal Report 2020 安裝說明
 
+如果需要測試版本，可以前往 SAP 的網站註冊並下載測試版本 https://www.sap.com/products/crystal-reports/trial.html 
+
 ## 執行安裝作業
 此部分會需要花比較長的時間，因此 Crystal Report 的壓縮檔案內有較多的檔案，因此如果磁碟速度較慢，可能會需要等待較長的時間
 
