@@ -1,3 +1,10 @@
+官方教材
+
+DP-300 : https://learn.microsoft.com/zh-tw/certifications/exams/dp-300
+
+------
+
+
 Source : https://www.examtopics.com/exams/microsoft/dp-300/view/
 
 ## Question 1
@@ -56,6 +63,10 @@ LINK : [ARM Template](https://learn.microsoft.com/zh-tw/azure/azure-sql/database
 LINK : [Create external data source](https://learn.microsoft.com/en-us/sql/t-sql/statements/create-external-data-source-transact-sql?view=sql-server-ver16&tabs=dedicated#f-create-external-data-source-to-access-data-in-azure-data-lake-gen2)
 
 
+## Question 15
+
+LINK : [CREATE TABLE](https://learn.microsoft.com/en-us/sql/t-sql/statements/create-table-azure-sql-data-warehouse?view=aps-pdw-2016-au7#syntax)
+
 ## Question 28
 
 
@@ -74,145 +85,47 @@ LINK : [Private Link](https://docs.microsoft.com/en-us/azure/azure-sql/database/
 LINK : []( )
 
 
-## Question 4
+## Question 31
+
+* will support cross database queries
+* Dependency
+LINK : [ARM Templete](https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/create-template-quickstart?view=azuresql&tabs=azure-powershell )
+
+
+## Question 32
 
 
 LINK : []( )
 
 
-## Question 4
+## Question 33
 
 
-LINK : []( )
+LINK : [](https://docs.microsoft.com/en-us/azure/dms/tutorial-sql-server-managed-instance-online )
 
 
-## Question 4
+## Question 34
 
 
-LINK : []( )
+LINK : [ARM Templete](https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-create-arm-template-quickstart?view=azuresql )
 
 
-## Question 4
+## Question 35
 
 
-LINK : []( )
+LINK : [endpoints](https://learn.microsoft.com/en-us/azure/dms/tutorial-sql-server-to-managed-instance)
 
 
-## Question 4
+## Question 36
 
 
-LINK : []( )
+LINK : [不支援清單](https://learn.microsoft.com/zh-tw/azure/azure-sql/migration-guides/managed-instance/sql-server-to-managed-instance-overview?view=azuresql#sql-server-vm-alternative)
 
 
-## Question 4
+## Question 37
 
 
-LINK : []( )
+LINK : [Replication](https://learn.microsoft.com/zh-tw/azure/azure-sql/database/replication-to-sql-database?view=azuresql)
 
 
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
-
-
-## Question 4
-
-
-LINK : []( )
+------
