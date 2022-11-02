@@ -1,6 +1,6 @@
-官方教材
+官方教材 DP-300 : https://learn.microsoft.com/zh-tw/certifications/exams/dp-300
 
-DP-300 : https://learn.microsoft.com/zh-tw/certifications/exams/dp-300
+參考資料 https://github.com/stevensnicole/dp-300
 
 ------
 
@@ -192,60 +192,51 @@ LINK : [Shared Access Signature](https://learn.microsoft.com/en-us/azure/azure-s
 LINK : [Query Store](https://learn.microsoft.com/en-us/sql/relational-databases/performance/how-query-store-collects-data?view=sql-server-ver16#query-processing)
 
 
-## Question x
+## Question 3
 
 
-LINK : []()
+LINK : [sys.dm_db_resource_stats](https://learn.microsoft.com/zh-tw/sql/relational-databases/system-dynamic-management-views/sys-dm-db-resource-stats-azure-sql-database?view=azuresqldb-current)
 
 
+## Question 4
 
 
-## Question x
+LINK : [使用 Azure 入口網站建立警示](https://learn.microsoft.com/zh-tw/azure/azure-sql/database/alerts-insights-configure-portal?view=azuresql)
 
 
-LINK : []()
+## Question 8
 
 
+LINK : [SQL IaaS agent extension](https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-on-azure-vm-iaas-what-is-overview?view=azuresql#feature-benefits)
 
 
-## Question x
+## Question 9
 
 
-LINK : []()
+LINK : [TopOne](https://learn.microsoft.com/zh-tw/stream-analytics-query/topone-azure-stream-analytics)
 
 
+## Question 24
 
 
-## Question x
+LINK : [ALTER DATABASE SCOPED CONFIGURATION](https://learn.microsoft.com/en-us/sql/t-sql/statements/alter-database-scoped-configuration-transact-sql?view=sql-server-ver16)
 
 
-LINK : []()
+## Question 32
 
 
+LINK : [](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-metric)
 
 
-## Question x
+------
+
+#Topic 4
 
 
-LINK : []()
+## Question 2
 
 
-
-
-## Question x
-
-
-LINK : []()
-
-
-
-
-## Question x
-
-
-LINK : []()
-
-
+LINK : [Automatic tuning](https://learn.microsoft.com/en-us/sql/relational-databases/automatic-tuning/automatic-tuning?view=sql-server-ver16)
 
 
 ## Question x
