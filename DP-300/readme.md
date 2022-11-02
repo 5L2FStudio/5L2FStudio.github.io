@@ -7,6 +7,8 @@ DP-300 : https://learn.microsoft.com/zh-tw/certifications/exams/dp-300
 
 Source : https://www.examtopics.com/exams/microsoft/dp-300/view/
 
+------
+# Topic 1
 ## Question 1
 
 
@@ -129,3 +131,158 @@ LINK : [Replication](https://learn.microsoft.com/zh-tw/azure/azure-sql/database/
 
 
 ------
+
+# Topic 2
+
+## Question 1
+
+
+LINK : [Microsoft Defender](https://learn.microsoft.com/zh-tw/azure/defender-for-cloud/defender-for-cloud-introduction)
+
+
+## Question 2
+
+
+LINK : [Private Link](https://learn.microsoft.com/zh-tw/azure/private-link/private-link-overview)
+
+
+## Question 3
+
+
+LINK : [Azure AD administrator](https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-configure?tabs=azure-powershell#azure-ad-admin-with-a-server-in-sql-database)
+
+
+## Question 4
+
+
+LINK : [Dynamic Data Masking](https://learn.microsoft.com/en-us/sql/relational-databases/security/dynamic-data-masking?view=sql-server-ver16)
+
+
+## Question 5
+
+
+LINK : [Always Encrypted](https://learn.microsoft.com/zh-tw/sql/relational-databases/security/encryption/always-encrypted-database-engine)
+
+
+## Question 20
+
+
+LINK : [加密資料行](https://learn.microsoft.com/zh-tw/sql/relational-databases/security/encryption/encrypt-a-column-of-data)
+
+
+## Question 22
+
+
+LINK : [Define SQL Azure Database Roles](https://bookshelf.erwin.com/bookshelf/public_html/2020R2/Content/User%20Guides/erwin%20Help/Define_SQL_Azure_Database_Roles.html)
+
+
+## Question 23
+
+
+LINK : [Shared Access Signature](https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/managed-instance/sql-server-to-managed-instance-guide?view=azuresql#backup-and-restore)
+
+
+------
+
+#Topic 3
+
+## Question 1
+
+
+LINK : [Query Store](https://learn.microsoft.com/en-us/sql/relational-databases/performance/how-query-store-collects-data?view=sql-server-ver16#query-processing)
+
+
+## Question x
+
+
+LINK : []()
+
+
+
+
+## Question x
+
+
+LINK : []()
+
+
+
+
+## Question x
+
+
+LINK : []()
+
+
+
+
+## Question x
+
+
+LINK : []()
+
+
+
+
+## Question x
+
+
+LINK : []()
+
+
+
+
+## Question x
+
+
+LINK : []()
+
+
+
+
+## Question x
+
+
+LINK : []()
+
+
+
+
+## Question x
+
+
+LINK : []()
+
+
+
+
+## Question x
+
+
+LINK : []()
+
+
+
+
+## Question x
+
+
+LINK : []()
+
+
+
+
+## Question x
+
+
+LINK : []()
+
+
+
+
+## Question x
+
+
+LINK : []()
+
+
