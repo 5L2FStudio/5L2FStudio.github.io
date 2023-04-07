@@ -7,7 +7,7 @@ Sname VARCHAR(10),
 Sage DATETIME,
 Ssex VARCHAR(10)
 );
-
+GO
 INSERT INTO Student VALUES('01', '趙雷', '1990-01-01', '男');
 INSERT INTO Student VALUES('02', '錢電', '1990-12-21', '男');
 INSERT INTO Student VALUES('03', '孫風', '1990-12-20', '男');
@@ -28,7 +28,7 @@ CId VARCHAR(10),
 Cname NVARCHAR(10),
 TId VARCHAR(10)
 );
-
+GO
 INSERT INTO Course VALUES('01', '國語', '02');
 INSERT INTO Course VALUES('02', '數學', '01');
 INSERT INTO Course VALUES('03', '英文', '03');
@@ -39,7 +39,7 @@ CREATE TABLE Teacher (
 TId VARCHAR(10),
 Tname VARCHAR(10)
 );
-
+GO
 INSERT INTO Teacher VALUES('01', '張三');
 INSERT INTO Teacher VALUES('02', '李四');
 INSERT INTO Teacher VALUES('03', '王五');
@@ -51,7 +51,7 @@ SId VARCHAR(10),
 CId VARCHAR(10),
 score DECIMAL(18,1)
 );
-
+GO
 INSERT INTO SC VALUES('01', '01', 80);
 INSERT INTO SC VALUES('01', '02', 90);
 INSERT INTO SC VALUES('01', '03', 99);
