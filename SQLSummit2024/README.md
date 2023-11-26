@@ -13,11 +13,10 @@
 ```
 trigger:
 - master
-- demo
 - develop
 
 pool:
-  vmImage: 'windows-latest'
+  vmImage: 'windows-latest'  # 不能用 ubuntu
 
 variables:
   solution: '**/*.sln'
@@ -25,12 +24,6 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- task: NuGetToolInstaller@1
-
-- task: NuGetCommand@2
-  inputs:
-    restoreSolution: '$(solution)'
-
 - task: VSBuild@1
   displayName: 'Build solution **\*.sln'
   inputs:
