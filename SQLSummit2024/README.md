@@ -6,6 +6,9 @@
 ## Git
 ![Git Flow](Git.png)
 
+## Azure SQL Database
+![SQL Database](SQLDatabaseFree.png)
+
 ## SQL Pipeline
 ```
 trigger:
