@@ -49,7 +49,10 @@ steps:
 
 ```
 
-SQL Package
+## Git
+![Continue Deploy](Continue.png)
+
+## SQL Package
 ```
 /TargetTimeout:3600 /p:CommandTimeout=3600 /p:GenerateSmartDefaults=true /p:BlockOnPossibleDataLoss=false /p:IgnoreAnsiNulls=True /p:IgnoreComments=True
 
