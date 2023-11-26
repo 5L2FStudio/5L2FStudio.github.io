@@ -48,3 +48,9 @@ steps:
   condition: succeededOrFailed()
 
 ```
+
+SQL Package
+```
+/TargetTimeout:3600 /p:CommandTimeout=3600 /p:GenerateSmartDefaults=true /p:BlockOnPossibleDataLoss=false /p:IgnoreAnsiNulls=True /p:IgnoreComments=True
+
+```
