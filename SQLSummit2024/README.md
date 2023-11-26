@@ -10,7 +10,7 @@
 ![SQL Database](SQLDatabaseFree.png)
 
 ## SQL Pipeline
-```
+```yaml
 trigger:
 - master
 - develop
@@ -57,7 +57,7 @@ steps:
 ![Variables](Variables.png)
 
 ## 同步 Sequence
-```
+```sql
 CREATE PROCEDURE [dbo].[SetSequenceValue]
 	@EditNum INT OUTPUT,
 	@Msg NVARCHAR(MAX) OUTPUT
