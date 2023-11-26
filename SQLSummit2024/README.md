@@ -49,7 +49,7 @@ steps:
 
 ```
 
-## Git
+## Release Continue Deploy
 ![Continue Deploy](Continue.png)
 
 ## SQL Package
@@ -57,3 +57,5 @@ steps:
 /TargetTimeout:3600 /p:CommandTimeout=3600 /p:GenerateSmartDefaults=true /p:BlockOnPossibleDataLoss=false /p:IgnoreAnsiNulls=True /p:IgnoreComments=True
 
 ```
+## 設定變數保護
+![Variables](Variables.png)
