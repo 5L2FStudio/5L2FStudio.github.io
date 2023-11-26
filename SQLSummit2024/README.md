@@ -49,10 +49,33 @@ steps:
 ![Continue Deploy](Continue.png)
 
 ## SQL Package
+
+### 一般設定
 ```
 /TargetTimeout:3600 /p:CommandTimeout=3600 /p:GenerateSmartDefaults=true /p:BlockOnPossibleDataLoss=false /p:IgnoreAnsiNulls=True /p:IgnoreComments=True
-
 ```
+
+### 特殊設定透過變數指定參數
+```
+/v:db_ConnString=helloworld.database.windows.net
+/v:db_PassWord=P@ssw0rd
+```
+
+```SQL
+CREATE MASTER KEY ENCRYPTION BY PASSWORD = '$(db_PassWord)'
+GO
+CREATE EXTERNAL DATA SOURCE [CoreAuthSource]
+    WITH (
+    TYPE = RDBMS,
+    LOCATION = N'$(db_ConnString)',
+    DATABASE_NAME = N'DEMO',
+    CREDENTIAL = [Auth_Credential]
+    );
+GO
+```
+
+
+
 ## 設定變數保護
 ![Variables](Variables.png)
 
