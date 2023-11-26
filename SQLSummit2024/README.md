@@ -13,42 +13,34 @@ trigger:
 - demo
 - develop
 
-
 pool:
-  vmImage: ubuntu-latest
+  vmImage: 'windows-latest'
 
 variables:
+  solution: '**/*.sln'
+  buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
-  sourceDirector: 'src/' #如果有設定要記得加入 /
 
 steps:
-- task: UseDotNet@2
-  displayName: 'Use .Net Core 7'
-  inputs:
-    packageType: 'sdk'
-    version: '7.x'
+- task: NuGetToolInstaller@1
 
-- task: DotNetCoreCLI@2
-  displayName: 'Restore Package'
+- task: NuGetCommand@2
   inputs:
-    command: 'restore'
-    projects: '$(sourceDirector)**/*.sln'
-    feedsToUse: 'select'
+    restoreSolution: '$(solution)'
 
-- task: DotNetCoreCLI@2
-  displayName: 'Build Project'
+- task: VSBuild@1
+  displayName: 'Build solution **\*.sln'
   inputs:
-    command: 'build'
-    projects: '$(sourceDirector)**/*.sln'
-    arguments: '--configuration Release'
-- task: DotNetCoreCLI@2
-  displayName: 'Publish Project'
+    solution: '$(solution)'
+    platform: '$(buildPlatform)'
+    configuration: '$(buildConfiguration)'
+- task: CopyFiles@2
+  displayName: 'Copy Files to: $(build.artifactstagingdirectory)'
   inputs:
-    command: 'publish'
-    projects: '$(sourceDirector)**/*.sln'
-    publishWebProjects: true
-    arguments: '--configuration $(buildConfiguration) --output $(build.artifactstagingdirectory)'
-    zipAfterPublish: True
+    SourceFolder: '$(system.defaultworkingdirectory)'
+    Contents: '**\bin\$(buildConfiguration)\**'
+    TargetFolder: '$(build.artifactstagingdirectory)'
+  condition: succeededOrFailed()
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact'
   inputs:
