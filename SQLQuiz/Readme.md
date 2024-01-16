@@ -4,7 +4,7 @@
 CREATE TABLE Student (
 SId VARCHAR(10),
 Sname VARCHAR(10),
-Sage DATETIME,
+Sage DATE,
 Ssex VARCHAR(10)
 );
 GO
@@ -17,7 +17,7 @@ INSERT INTO Student VALUES('06', '吳蘭', '1992-01-01', '女');
 INSERT INTO Student VALUES('07', '鄭竹', '1989-01-01', '女');
 INSERT INTO Student VALUES('09', '張三', '2017-12-20', '女');
 INSERT INTO Student VALUES('10', '李四', '2017-12-25', '女');
-INSERT INTO Student VALUES('11', '李四', '2012-06-06', '女');
+INSERT INTO Student VALUES('11', '王五', '2012-06-06', '女');
 INSERT INTO Student VALUES('12', '趙六', '2013-06-13', '女');
 INSERT INTO Student VALUES('13', '孫七', '2014-06-01', '女');
 ```
