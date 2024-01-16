@@ -8,18 +8,14 @@ Sage DATE,
 Ssex VARCHAR(10)
 );
 GO
-INSERT INTO Student VALUES('01', '趙雷', '1990-01-01', '男');
-INSERT INTO Student VALUES('02', '錢電', '1990-12-21', '男');
-INSERT INTO Student VALUES('03', '孫風', '1990-12-20', '男');
-INSERT INTO Student VALUES('04', '李雲', '1990-12-06', '男');
-INSERT INTO Student VALUES('05', '周梅', '1991-12-01', '女');
-INSERT INTO Student VALUES('06', '吳蘭', '1992-01-01', '女');
-INSERT INTO Student VALUES('07', '鄭竹', '1989-01-01', '女');
-INSERT INTO Student VALUES('09', '張三', '2017-12-20', '女');
-INSERT INTO Student VALUES('10', '李四', '2017-12-25', '女');
-INSERT INTO Student VALUES('11', '王五', '2012-06-06', '女');
-INSERT INTO Student VALUES('12', '趙六', '2013-06-13', '女');
-INSERT INTO Student VALUES('13', '孫七', '2014-06-01', '女');
+insert into Student values('01' , '趙雷' , '1990-01-01' , '男');
+insert into Student values('02' , '錢電' , '1990-12-21' , '男');
+insert into Student values('03' , '孫風' , '1990-05-20' , '男');
+insert into Student values('04' , '李雲' , '1990-08-06' , '男');
+insert into Student values('05' , '周梅' , '1991-12-01' , '女');
+insert into Student values('06' , '吳蘭' , '1992-03-01' , '女');
+insert into Student values('07' , '鄭竹' , '1989-07-01' , '女');
+insert into Student values('08' , '王菊' , '1990-01-20' , '女');
 ```
 
 ```SQL
